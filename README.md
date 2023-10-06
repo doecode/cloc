@@ -1,3 +1,6 @@
+# NOTICE:
+**This forked repository has been archived and is no longer actively maintained (original project: AlDanial/cloc). Please visit [DOE CODE](https://www.osti.gov/doecode/) for more information, or for any questions, please contact [doecoderepositories@osti.gov](doecoderepositories@osti.gov?subject=[DOE%20CODE%20GitHub]%20More%20Information).**
+
 <a name="___top"></a>
 # cloc
 *Count Lines of Code*
